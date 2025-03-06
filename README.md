@@ -1,5 +1,8 @@
 # Gaia Agent Starter
 
+A simple starter kit that integrates Gaia AI capabilities with Next.js, providing an easy foundation for building AI-powered applications.
+
+
 ![Gaia Agent](./public/image.png)
 
 ### Next.js Project Setup
@@ -61,7 +64,7 @@ The project uses Next.js App Router. You can start editing the page by modifying
 - **React Server Components**: Adds components without sending additional client-side JavaScript.
 - **Built-in Optimizations**: Automatic image, font, and script optimizations for improved UX and Core Web Vitals.
 - **Advanced Routing & Nested Layouts**: Creates routes using the file system, supporting advanced routing patterns and UI layouts.
-- **GaiaNet AI Integration**: Access to advanced AI functionalities through the Gaia protocol.
+- **GaiaNet AI Integration**: Access to advanced AI functionalities through the Gaia.
 
 ## Learn More
 
