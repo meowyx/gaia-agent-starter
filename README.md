@@ -7,8 +7,8 @@
 1. Clone the repository:
 
 ```bash
-git clone 
-cd Gaia Agent Starter
+git clone https://github.com/meowyx/gaia-agent-starter
+cd gaia-agent-starter
 
 ```
 
@@ -28,6 +28,28 @@ pnpm install
 
 1. Open [http://localhost:3000](http://localhost:3000/) with your browser to see the result.
 
+## Environment Setup
+
+This project requires Gaia API credentials to function properly. Create a `.env.local` file based on the `.env.example`:
+
+```bash
+NEXT_PUBLIC_GAIA_API_BASE_URL=
+NEXT_PUBLIC_GAIA_API_KEY=
+```
+
+### Getting Your API Key
+
+1. Visit [gaianet.ai](https://gaianet.ai) and click on **Launch App**
+2. Connect your Metamask wallet by clicking **CONNECT**
+3. Access your profile settings by clicking on the profile dropdown and selecting **Setting**
+4. Navigate to **Gaia API Keys** and click **Create API Key**
+5. Name your API key and click **Create**
+
+For more details, see the [Gaia authentication documentation](https://docs.gaianet.ai/getting-started/authentication).
+
+### Choosing an API Base URL
+
+You can find available public Gaia nodes [here.](https://docs.gaianet.ai/nodes).
 
 ## Project Structure
 
