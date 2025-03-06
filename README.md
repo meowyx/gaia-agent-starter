@@ -61,14 +61,10 @@ The project uses Next.js App Router. You can start editing the page by modifying
 - **React Server Components**: Adds components without sending additional client-side JavaScript.
 - **Built-in Optimizations**: Automatic image, font, and script optimizations for improved UX and Core Web Vitals.
 - **Advanced Routing & Nested Layouts**: Creates routes using the file system, supporting advanced routing patterns and UI layouts.
-- **MetaMask Integration**: Secure blockchain interactions and wallet connectivity.
 - **GaiaNet AI Integration**: Access to advanced AI functionalities through the Gaia protocol.
 
 ## Learn More
 
-- [Next.js Documentation](https://nextjs.org/docs)
-- [Learn Next.js](https://nextjs.org/learn)
-- [MetaMask Documentation](https://docs.metamask.io/)
 - [GaiaNet AI Documentation](https://docs.gaianet.ai/)
 
 ## Contributing
