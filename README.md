@@ -1,6 +1,6 @@
 # Gaia Agent Starter
 
-A simple starter kit that integrates Gaia AI capabilities with Next.js, providing an easy foundation for building AI-powered applications.
+A simple starter kit that integrates AI capabilities with Gaia and Next.js, providing an easy foundation for building AI-powered applications.
 
 
 ![Gaia Agent](./public/image.png)
